@@ -9,6 +9,11 @@ All code written in Python and is compatible with both Python 2 and 3. Source co
 
 Art is all original and created with FireAlpaca (drawing software), except for background.png, which was found on http://bsnscb.com/hex-wallpapers.html. 
 
+To run the game, simply open/run <i>main.py</i> through Python 2 or 3.
+
+Download Python here: https://www.python.org/downloads/ <br>
+Download Pygame here: https://www.pygame.org/download.shtml
+
 <h2>License</h2>
 
 Copyright (c) 2018 Derek Zhang
